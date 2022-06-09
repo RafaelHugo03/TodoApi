@@ -18,7 +18,7 @@
 <p> - Secure Identity</p>
 <p> - Microsoft.AspNetCore.Authentication 2.20</p>
 <p> - Microsoft.AspNetCore.Authentication.JwtBearer 6.0.5
- <h3> Técnicas Utilizadas </h3>
+<h3> Técnicas Utilizadas </h3>
 <p> - A base de dados foi gerada a partir do código utilizando o entity framework core e fluent mapping. </p>
 <p> - Api construida com Repository Pattern </p>
 <p> - Autenticação e autorização com Jwt Token</p>
