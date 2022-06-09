@@ -22,6 +22,6 @@
 <p> - A base de dados foi gerada a partir do código utilizando o entity framework core e fluent mapping. </p>
 <p> - Api construida com Repository Pattern </p>
 <p> - Autenticação e autorização com Jwt Token</p>
-<p) - Utilização de viewmodels, para persistência e leitura de dados </p>
+<p> - Utilização de viewmodels, para persistência e leitura de dados </p>
 
 <h2> Esse projeto é apenas um treinamento</h2>
